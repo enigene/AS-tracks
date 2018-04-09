@@ -1,0 +1,36 @@
+<h2>Description</h2>
+<p>Homo sapiens Alpha Satellites Map</p>
+<p><b>Sequencing/Assembly name:</b> GRCh38</p>
+<p><b>Assembly date:</b> 2013-12-17</p>
+<p><b>GenBank accession ID:</b> <a href="http://www.ncbi.nlm.nih.gov/assembly/GCA_000001405.15/" target="_blank">GCA_000001405.15</a></p>
+
+<h2>Methods</h2>
+<p>Alpha Satellite monomers were identified by PERCON similarity search, extracted and distributed into the classes characteristic of the 5 suprachromosomal families by a Bayesian classifier.</p>
+
+<h2>Credits</h2>
+<p>Valery A. Shepelev (Institute of Molecular Genetics, Moscow, Russia), Ivan A. Alexandrov (Research Center of Mental Health, Moscow, Russia)</p>
+<p>Converter from PERCON output to BED file format: Lev I. Uralsky (Institute of Molecular Genetics, Moscow, Russia)</p>
+
+<h2>References</h2>
+<p>Please, cite this track as:
+</p>
+<p>
+Shepelev VA, Uralsky LI, Alexandrov AA, Yurov YB, Rogaev EI, Alexandrov IA.
+<a href="http://www.sciencedirect.com/science/article/pii/S2213596015000987" target="_blank">Annotation of suprachromosomal families reveals uncommon types of alpha satellite organization in pericentromeric regions of hg38 human genome assembly</a>.
+<em>Genomics Data</em>. 2015 May; 5:139-146.
+<a href="http://dx.doi.org/10.1016/j.gdata.2015.05.035" target="_blank">doi:10.1016/j.gdata.2015.05.035</a>
+</p>
+
+<p>Shepelev VA, Alexandrov AA, Yurov YB, Alexandrov IA.
+<a href="http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1000641" target="_blank">The evolutionary origin of man can be traced in the layers of defunct ancestral alpha satellites flanking the active centromeres of human chromosomes</a>.
+<em>PLoS Genet</em>. 5(9) (2009 Sep), p. e1000641.
+<a href="http://dx.doi.org/10.1371/journal.pgen.1000641" target="_blank">doi:10.1371/journal.pgen.1000641</a>
+PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/19749981" target="_blank">19749981</a>; PMC: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2729386/" target="_blank">2729386</a>
+</p>
+
+<p>
+Kazakov AE, Shepelev VA, Tumeneva IG, Alexandrov AA, Yurov YB, Alexandrov IA.
+<a href="http://www.sciencedirect.com/science/article/pii/S0888754303001824" target="_blank">Interspersed repeats are found predominantly in the “old” alpha satellite families</a>.
+<em>Genomics</em>. 82 (6) (2003 Dec), pp.619-627.
+PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/14611803" target="_blank">14611803</a>
+</p>
